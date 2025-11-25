@@ -1,3 +1,22 @@
+# Abstract
+
+The Core WUS Challenge
+```
+WUS Requirement = SOAP 1.1 Envelope + SOAP 1.2 Features
+```
+
+Java frameworks cannot support Digikoppeling WUS out of the box with any of the existing and populair Java frameworks. 
+
+.NET is less strict and does not have the limitations but most Integration platforms are Java based and therefore struggle with any WUS implementation.
+
+The code provided here is a solution to mitigate the WUS problems within Java.
+
+[![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](LICENSE.md)
+[![Version](https://img.shields.io/badge/version-0.1.0--beta-orange)](https://github.com/grauwen/digikoppeling-wus-cxf/releases)
+[![Documentation](https://img.shields.io/badge/Docs-digikoppeling.wus.cxf-brightgreen)](https://github.com/grauwen/digikoppeling-wus-cxf)
+
+---
+
 # Digikoppeling WUS: The Hybrid SOAP Challenge in Java/Kotlin
 
 ## Understanding the SOAP 1.1 + SOAP 1.2 Mix and Solutions
